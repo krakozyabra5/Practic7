@@ -1,0 +1,11 @@
+C:\Users\I'm\Desktop\колледж\АОп\С#\Практическая 27 - игра\Практическая 27 - игра\bin\Debug\Практическая 27 - игра.exe.config
+C:\Users\I'm\Desktop\колледж\АОп\С#\Практическая 27 - игра\Практическая 27 - игра\bin\Debug\Практическая 27 - игра.exe
+C:\Users\I'm\Desktop\колледж\АОп\С#\Практическая 27 - игра\Практическая 27 - игра\bin\Debug\Практическая 27 - игра.pdb
+C:\Users\I'm\Desktop\колледж\АОп\С#\Практическая 27 - игра\Практическая 27 - игра\obj\Debug\Практическая 27 - игра.csproj.AssemblyReference.cache
+C:\Users\I'm\Desktop\колледж\АОп\С#\Практическая 27 - игра\Практическая 27 - игра\obj\Debug\Практическая 27 - игра.csproj.SuggestedBindingRedirects.cache
+C:\Users\I'm\Desktop\колледж\АОп\С#\Практическая 27 - игра\Практическая 27 - игра\obj\Debug\Практическая_27___игра.Form1.resources
+C:\Users\I'm\Desktop\колледж\АОп\С#\Практическая 27 - игра\Практическая 27 - игра\obj\Debug\Практическая_27___игра.Properties.Resources.resources
+C:\Users\I'm\Desktop\колледж\АОп\С#\Практическая 27 - игра\Практическая 27 - игра\obj\Debug\Практическая 27 - игра.csproj.GenerateResource.cache
+C:\Users\I'm\Desktop\колледж\АОп\С#\Практическая 27 - игра\Практическая 27 - игра\obj\Debug\Практическая 27 - игра.csproj.CoreCompileInputs.cache
+C:\Users\I'm\Desktop\колледж\АОп\С#\Практическая 27 - игра\Практическая 27 - игра\obj\Debug\Практическая 27 - игра.exe
+C:\Users\I'm\Desktop\колледж\АОп\С#\Практическая 27 - игра\Практическая 27 - игра\obj\Debug\Практическая 27 - игра.pdb
