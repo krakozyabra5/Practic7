@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Practic_8_PR21102_Glazirin_And_Maligin</string>
+
+
+    <string name="catalog_main">Выбери свое направление</string>
+    <string name="Category">Выбери одну категорию</string>
+
+    <string name="Psychology"> Психология</string>
+    <string name="Business">     Бизнес</string>
+    <string name="School">  Школа</string>
+    <string name="Relationship">    Отношения</string>
+
+    <string name="Result">Показать результат</string>
+
+    <string name="Phone">8-954-852-87-12</string>
+
+    <string name="Choice">Ваш выбор</string>
+
+    <string name="Leadership">Томас Маак, Никола Плесс "Ответственное лидерство"</string>
+
+    <string name="Money">890 рублей</string>
+
+    <string name="Delivery">Доставка</string>
+
+    <string name="Courier">Курьер</string>
+    <string name="Pickup">Самовывоз</string>
+
+    <string name="YouName">Введите свое имя</string>
+    <string name="Phone_1">Введите свой номер телефона</string>
+
+    <string name="Order">Заказать</string>
+    <string name="Website">На сайт</string>
+
+    <string name="Link">http://developer.android.com</string>
+
+    <string name="Developers">developers</string>
+    <string name="Enter">Войти</string>
+
+    <string name="ANDROIDFORDEVELOPERS">Android   for Developers</string>
+    <string name="TextAndroide">Modern tools and resources to help you build
+    experiences that people love, faster and easier, across every Android device.</string>
+
+    <string name="Download">Download Android Studio</string>
+    <string name="Launch">Launch Play Console</string>
+    <string name="View">View Android courses</string>
+</resources>
