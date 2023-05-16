@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Practik9_GlazirinNG_And_MaliginAA</string>
+
+    <string name="Smart">моё смарт-устройство</string>
+
+    <string name="KM">1.3 км</string>
+    <string name="Kcal">59 калл</string>
+    <string name="Min">30 мин</string>
+    <string name="Steps">2564 шагов</string>
+
+    <string name="Kg">65 кг</string>
+    <string name="Bmp">82 пульс</string>
+
+    <string name="Steps1">2564 шагов</string>
+
+    <string name="Routes">маршруты</string>
+    <string name="BriefInformation">краткая информация</string>
+    <string name="Information">информация</string>
+
+    <string name="Link">http://developer.android.com</string>
+
+    <string name="Developers">developers</string>
+    <string name="ComeIn">Войти</string>
+
+    <string name="ANDROIDFORDEVELOPERS">ANDROID FOR DEVELOPERS</string>
+    <string name="TextAndroid">Modern tools and resources to help you build experiences that people love,
+        faster and easier, acroos every Android device</string>
+
+    <string name="Download">Download Android Studio</string>
+    <string name="Launch">Launch Play Console</string>
+    <string name="View">View Android courses</string>
+</resources>
